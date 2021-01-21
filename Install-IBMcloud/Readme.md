@@ -79,11 +79,11 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 * Click the *Actions* button and select *Web terminal*.
 
-![Screenshot](images/test2.PNG)
+![Screenshot](images/test2.png)
 
 * A window opens to install the web terminal, click on install and wait a few minutes. The window will pop up at the buttom If the web terminal is already installed.
 
-![Screenshot](images/test3.PNG)
+![Screenshot](images/test3.png)
 
 ![Screenshot](images/test7.PNG)
 
